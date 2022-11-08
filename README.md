@@ -1,8 +1,8 @@
-##                       🕊️🍃 𝙌𝙀𝙀𝙉 𝙏𝙃 𝙈𝙄𝙉𝙀 𝙈𝘿 🍃🕊️ 𝙑 1 𝙍𝙀𝙇𝙀𝙎𝙀
+##                        ✨♥️🧸🍼𝘲ꫀꫀꪀ 𝓽ꫝ ꪑᦔ ꪑ𝓲ꪀꫀ🍼🧸♥️✨ 𝙍𝙀𝙇𝙀𝙎𝙀
 
-<p align = center>   <img src="https://i.ibb.co/cCnNBPZ/20221005-121833.png" alt="GIF" width="250" height="250"/> </p>
+<p align = center>   <img src="https://i.ibb.co/D9QrWMY/b58964e3eabd87a0aece6b93e33f9055-1.jpg" alt="GIF" width="250" height="250"/> </p>
 
-<p align  = center> <a href="#"><img title="🕊️🍃 𝙌𝙀𝙀𝙉 𝙏𝙃 𝙈𝙄𝙉𝙀 𝙈𝘿 🍃🕊️" src="https://img.shields.io/badge/QEEN TH WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
+<p align  = center> <a href="#"><img title="✨♥️🧸🍼𝘲ꫀꫀꪀ 𝓽ꫝ ꪑᦔ ꪑ𝓲ꪀꫀ🍼🧸♥️✨" src="https://img.shields.io/badge/QEEN TH WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
 
 ## QR Link 
 https://replit.com/@darkalphaxteam/CYBER-X-MD-SCANNER?output%20only=1&lite=1#index.js
@@ -10,7 +10,7 @@ https://replit.com/@darkalphaxteam/CYBER-X-MD-SCANNER?output%20only=1&lite=1#ind
 ```https://heroku.com/deploy?template=```
 ## Support Group 
 
-https://chat.whatsapp.com/H9oBjtVhxep3eZv0tgD7hZ
+https://chat.whatsapp.com/Kz7tvY9P7taDl50rnANoN3
 
 ## In some cases, the bot may stop working automatically as soon as the button issue is resolved. So, if it happens, turn the restart Bot. I will find a solution soon.
 ## බටන් ගැටලුව විසදීමත් සමගම සමහර අවස්තාවලදි බොට් ක්‍රියාකාරිත්වය ඉබේ නැවතිය හැකිය. එනිසා එසෙ වුවහොත් නැවත් බොට් On කරන්න .ඉක්මනින් පිලියමක් සොයා දෙන්නම්.
