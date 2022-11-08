@@ -1,5 +1,5 @@
 {
-  "name": "🕊️🍃 𝙌𝙀𝙀𝙉 𝙏𝙃 𝙈𝙄𝙉𝙀 𝙈𝘿 🍃🕊️",
+  "name": "✨♥️🧸🍼𝘲ꫀꫀꪀ 𝓽ꫝ ꪑᦔ ꪑ𝓲ꪀꫀ🍼🧸♥️✨",
   "description": "𝚀𝙴𝙴𝙽 𝚃𝙷 𝙼𝙳 𝙼𝙰𝙳𝙴 𝙱𝚈 𝙻𝙰𝙺𝙸𝚈𝙰",
   "repository": "https://github.com/darkalphaxteam/CYBER-X-BETA-1.5.1-RELEASE-",
   "logo": "https://i.ibb.co/cCnNBPZ/20221005-121833.png",
@@ -13,7 +13,7 @@
 		    "BOT_NAME": {
 			"description": "Change the bot Name here",
 			"required": true,
-			"value": "🕊️🍃 𝙌𝙀𝙀𝙉 𝙏𝙃 𝙈𝙄𝙉𝙀 𝙈𝘿 🍃🕊️"
+			"value": "✨♥️🧸🍼𝘲ꫀꫀꪀ 𝓽ꫝ ꪑᦔ ꪑ𝓲ꪀꫀ🍼🧸♥️✨"
 			},
 			"BOT_NUMBER": {
 			"description": "Change the Bot Number",
@@ -23,7 +23,7 @@
 			"STICKERS_NAME": {
 			"description": "Add the Stickers Name",
 			"required": true,
-			"value": "🕊️🍃 𝙌𝙀𝙀𝙉 𝙏𝙃 𝙈𝙄𝙉𝙀 𝙈𝘿 🍃🕊️"
+			"value": "✨♥️🧸🍼𝘲ꫀꫀꪀ 𝓽ꫝ ꪑᦔ ꪑ𝓲ꪀꫀ🍼🧸♥️✨"
 			},
 			"OWNER_NAME": {
 			"description": "Add Your Name",
@@ -33,7 +33,7 @@
 			"FOOTER": {
 			"description": "Add Your Button Massage's Footer",
 			"required": true,
-			"value": "🕊️🍃 𝙌𝙀𝙀𝙉 𝙏𝙃 𝙈𝙄𝙉𝙀 𝙈𝘿 🍃🕊️"
+			"value": "✨♥️🧸🍼𝘲ꫀꫀꪀ 𝓽ꫝ ꪑᦔ ꪑ𝓲ꪀꫀ🍼🧸♥️✨"
 			},
 			"ALIVE_IMAGE": {
 			"description": "Add Your Alive Image Derect Link",
@@ -43,7 +43,7 @@
 			"ALIVE_MSG": {
 			"description": "Add Your Alive massage",
 			"required": true,
-			"value": "𝙃𝙀𝙇𝙇𝙊𝙒 𝙄𝙈 🕊️🍃 𝙌𝙀𝙀𝙉 𝙏𝙃 𝙈𝙄𝙉𝙀 𝙈𝘿 🍃🕊️"
+			"value": "𝙃𝙀𝙇𝙇𝙊𝙒 𝙄𝙈 ✨♥️🧸🍼𝘲ꫀꫀꪀ 𝓽ꫝ ꪑᦔ ꪑ𝓲ꪀꫀ🍼🧸♥️✨"
 			},
 			"MENU_IMAGE": {
 			"description": "Add Your Name",
@@ -63,7 +63,7 @@
 			"CAPTION": {
 			"description": "Add Your Downloaded Video's Caption",
 			"required": true,
-			"value": "🕊️🍃 𝙌𝙀𝙀𝙉 𝙏𝙃 𝙈𝙄𝙉𝙀 𝙈𝘿 🍃🕊️"
+			"value": "✨♥️🧸🍼𝘲ꫀꫀꪀ 𝓽ꫝ ꪑᦔ ꪑ𝓲ꪀꫀ🍼🧸♥️✨"
 			},
 			"YOUR_WEB": {
 			"description": "Add Your web or a nother Link",
@@ -78,7 +78,7 @@
 			"SONGUP_MSG": {
 			"description": "Add Massage For Song Uploading",
 			"required": true,
-			"value": "පොඩ්ඩක් ඉන්න සිංදුව එනව....❤️🍃"
+			"value": "පොඩ්ඩක් ඉන්න සිංදුව එනව....🍼✨♥️🧸"
 			},
 			"WELCOME_GOODBYE": {
 			"description": "Set 'true' if you want the Welcome and Goodbye massages  add 'false' if you don't",
@@ -108,7 +108,7 @@
 			"THEME_EMOJI": {
 			"description": "Add Your Favorite Emoji",
 			"required": true,
-			"value": "⛽"
+			"value": "🧸"
 			},
 			"INBOX_MSG": {
 			"description": "Add Your Inbox Back Massage",
